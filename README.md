@@ -1,2 +1,2 @@
 # Java_Project
-This is my Java repository in which I upload projects made in Java.
+This is my Java repository, where I upload projects made in Java.
